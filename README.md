@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**felipeequaresma/felipeequaresma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe Quaresma, inicie minha carreira em 2019 e desde então trabalho como Desenvolvedor Fullstack. Atualmente tenho como foco as stacks PHP, Laravel e Vue.js.
 
-Here are some ideas to get you started:
+Você gostaria de saber um pouco mais sobre mim?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:link: https://www.linkedin.com/in/felipeequaresma/
+:link: http://www.felipequaresma.com.br 
+
+### Hey there 👋
+
+My name is Felipe Quaresma, start my career in 2019 and since then I work as a Fullstack developer. I currently focus on PHP, Laravel and Vue.js.
+
+Would you like to know a little more about my work?
+
+:link: https://www.linkedin.com/in/felipeequaresma/
+:link: http://www.felipequaresma.com.br 
