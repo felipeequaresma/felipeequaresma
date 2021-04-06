@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Felipe Quaresma, inicie minha carreira em 2019 e desde então trabalho como Desenvolvedor Fullstack. Atualmente tenho como foco as stacks PHP, Laravel e Vue.js.
+Meu nome é Felipe Quaresma, inicie minha carreira em 2019 e desde então trabalho como Desenvolvedor Fullstack. Atualmente tenho como foco nas stacks PHP, Laravel e Vue.js.
 
 Você gostaria de saber um pouco mais sobre mim?
 
