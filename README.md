@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Felipe Quaresma, inicie minha carreira em 2019 e desde então trabalho como Desenvolvedor Fullstack. Atualmente tenho como foco nas stacks Ruby on Rails, PHP, Laravel e Vue.js.
+Meu nome é Felipe Quaresma, inicie minha carreira em 2019 e desde então trabalho como Desenvolvedor Fullstack. Atualmente tenho como foco nas stacks Ruby on Rails, e React
 
 Você gostaria de saber um pouco mais sobre mim?
 
@@ -9,7 +9,7 @@ Você gostaria de saber um pouco mais sobre mim?
 
 ### Hey there 👋
 
-My name is Felipe Quaresma, start my career in 2019 and since then I work as a Fullstack developer. I currently focus on PHP, Laravel and Vue.js.
+My name is Felipe Quaresma, start my career in 2019 and since then I work as a Fullstack developer. I currently focus on Ruby on Rails, e React.
 
 Would you like to know a little more about me?
 
